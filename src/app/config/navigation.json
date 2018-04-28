@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "Home",
+      "route": "home",
+      "icon": "fa fa-lg fa-fw fa-home"
+    },
+    {
+      "title": "Systems",
+      "icon": "fa fa-lg fa-fw fa-bars",
+      "items": [
+        {
+          "title": "Branch",
+          "route": "/systems/branch"
+        }
+      ]
+    }
+
+  ]
+}
